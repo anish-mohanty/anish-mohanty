@@ -33,7 +33,7 @@ const anish
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anish-Byte-Bot&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anish-Byte-Bot&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Byte-Bot&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -41,7 +41,7 @@ const anish
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anish-Byte-Bot&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Anish-Byte-Bot&theme=algolia&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
